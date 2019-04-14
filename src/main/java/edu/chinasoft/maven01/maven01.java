@@ -5,5 +5,7 @@ public class maven01 {
 		System.out.println("maven04 commit");
 		System.out.println("again");
 		System.out.println("2");
+		System.out.println("1");
+		System.out.println("1");
 	}
 }
